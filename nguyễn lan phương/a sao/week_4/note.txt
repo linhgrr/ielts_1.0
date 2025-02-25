@@ -1,0 +1,9 @@
+different type of RNN:
+ - Many-to-one (sentiment classification), one-to-many, many-to-many(machine translation)
+
+a <t> = g(Wa[a<t-1>, x<t>] + b_a)
+
+Has vanishing gradient prob
+
+
+GRU (gated recurrent unit):
