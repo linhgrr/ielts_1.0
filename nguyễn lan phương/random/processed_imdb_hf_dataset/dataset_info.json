@@ -1,0 +1,42 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "csv",
+  "dataset_size": 66283508,
+  "description": "",
+  "download_checksums": {
+    "C:/Users/Tuan Linh/Downloads/\u00f3c nh\u00e2n t\u1ea1o/nguy\u1ec5n lan ph\u01b0\u01a1ng/random/IMDB Dataset.csv": {
+      "num_bytes": 66212309,
+      "checksum": null
+    }
+  },
+  "download_size": 66212309,
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 132495817,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 66283508,
+      "num_examples": 50000,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
